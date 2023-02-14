@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.1 99.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #a28dc2;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Borders">
+    <rect class="cls-1" x="0" width="99.1" height="99.1"/>
+    <rect class="cls-1" y="0" width="99.1" height="99.1"/>
+    <rect class="cls-1" x="0" y="0" width="99.1" height="12.48"/>
+    <rect class="cls-1" x="0" y="86.62" width="98.87" height="12.48"/>
+    <rect class="cls-1" x="43.31" y="43.31" width="99.1" height="12.48" transform="translate(142.41 -43.31) rotate(90)"/>
+    <rect class="cls-1" x="-43.31" y="43.31" width="99.1" height="12.48" transform="translate(55.79 43.31) rotate(90)"/>
+  </g>
+  <g id="Icons">
+    <path class="cls-2" d="m14.33,34.72h36.67c5.29,0,9.58-4.29,9.58-9.58,0-5.29-4.29-9.58-9.58-9.58-1.57,0-3.05.38-4.36,1.05"/>
+    <path class="cls-2" d="m14.33,62.36h36.67c5.29,0,9.58,4.29,9.58,9.58,0,5.29-4.29,9.58-9.58,9.58-1.57,0-3.05-.38-4.36-1.05"/>
+    <path class="cls-2" d="m14.33,48.72h60.85c5.29,0,9.58-4.29,9.58-9.58,0-5.29-4.29-9.58-9.58-9.58-1.57,0-3.05.38-4.36,1.05"/>
+  </g>
+</svg>
